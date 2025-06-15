@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exercise06_09",
+            "request": "launch",
+            "mainClass": "Exercise06_09",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Exercise06_09",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Exercise06_09",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Launch App",
             "request": "launch",
             "cwd": "${workspaceFolder}",
