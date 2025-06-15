@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exercise06_03",
+            "request": "launch",
+            "mainClass": "assignments.Exercise06_03.Exercise06_03",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Exercise06_09",
+            "request": "launch",
+            "mainClass": "assignments.Exercise06_09.Exercise06_09",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Exercise06_03",
+            "request": "launch",
+            "mainClass": "Exercise06_03",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Exercise06_09",
             "request": "launch",
             "mainClass": "Exercise06_09",

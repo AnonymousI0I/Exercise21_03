@@ -1,3 +1,5 @@
+package assignments.Exercise06_09;
+
 public class Exercise06_09 {
     /** Convert from feet to meters */
     public static double footToMeter(double foot) {
